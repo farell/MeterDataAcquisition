@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SattiliteDataAcquisition", "SattiliteDataAcquisition\SattiliteDataAcquisition.csproj", "{117E819B-F2D7-4217-9CC1-F17B13655D04}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeterDataAcquisition", "SattiliteDataAcquisition\MeterDataAcquisition.csproj", "{117E819B-F2D7-4217-9CC1-F17B13655D04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
